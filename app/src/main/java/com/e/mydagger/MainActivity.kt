@@ -39,6 +39,8 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(applicationContext, warrior2.horse.name, Toast.LENGTH_LONG).show()
 
+        Toast.makeText(applicationContext, app.appObject.type, Toast.LENGTH_LONG).show()
+
 
 
     }
