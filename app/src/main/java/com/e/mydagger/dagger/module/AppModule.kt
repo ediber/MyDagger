@@ -1,4 +1,4 @@
-package com.e.mydagger.dagger
+package com.e.mydagger.dagger.module
 
 import android.content.Context
 import com.e.mydagger.App
